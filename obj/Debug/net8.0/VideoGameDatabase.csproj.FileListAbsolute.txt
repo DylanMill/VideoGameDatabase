@@ -275,3 +275,4 @@ F:\VideoGameDatabase\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cr
 F:\VideoGameDatabase\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 F:\VideoGameDatabase\obj\Debug\net8.0\VideoGameDatabase.csproj.AssemblyReference.cache
 F:\VideoGameDatabase\obj\Debug\net8.0\VideoGam.3CBFF74C.Up2Date
+F:\VideoGameDatabase\obj\Debug\net8.0\VideoGameDatabase.sourcelink.json
